@@ -1,11 +1,15 @@
 <h1 align="center">Hi 👋, I'm Jesper</h1>
 <h3 align="center">A computer science and engineering student from Linköping, Sweden!</h3>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kiopp" alt="kiopp" /></a> </p>
+
 - 🔭 I’m currently working on [My calculation tool](https://github.com/Kiopp/kiopps-math-tool)
 
 - 🌱 I’m currently learning **C, C++ and C#**
 
 - 💬 Ask me about **Anything (I can most likely not answer, but you can still ask.)**
+
+- 📫 How to reach me **jesper.wentzell@gmail.com**
 
 - ⚡ Fun fact **I like learning new things :)**
 
