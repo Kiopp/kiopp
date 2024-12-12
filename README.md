@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jesper</h1>
-<h3 align="center">A computer science and engineering student from Linköping, Sweden!</h3>
+<h3 align="center">A computer science and engineering student from Sweden!</h3>
 
 - 🔭 I’m currently working on [My calculation tool](https://github.com/Kiopp/kiopps-math-tool)
 
