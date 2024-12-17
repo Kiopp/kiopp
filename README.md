@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning: **C and C++**
 
-- 💬 Ask me about: **Anything (I most likely can't answer, but you can still ask 🙃)**
-
 - 📫 How to reach me:
   - **Discord:** fossilbransle
   - **Email:** jesper.wentzell@gmail.com
