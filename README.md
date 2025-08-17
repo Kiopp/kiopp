@@ -1,5 +1,5 @@
 <h1 align="center">Hello!</h1>
-<h3 align="center">I am a 21 year old computer science and engineering student from Sweden!</h3>
+<h3 align="center">I am a 22 year old computer science and engineering student from Sweden!</h3>
 
 - 🌱 I’m currently learning: **C and C++**
 
