@@ -1,7 +1,7 @@
 <h1 align="center">Hello!</h1>
 <h3 align="center">I am a 22 year old computer science and engineering student from Sweden!</h3>
 
-- 🌱 I’m currently learning: **C and C++**
+- 🌱 I’m currently learning: **C and Python**
 
 - 📫 How to reach me:
   - **Discord:** fossilbransle
